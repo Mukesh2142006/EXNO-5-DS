@@ -19,8 +19,9 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 
-# NAME: MUKESH.B
-# REG NO: 212223230128
+ NAME: MUKESH.B
+ 
+ REG NO: 212223230128
 
 
 ![Screenshot 2025-05-06 105922](https://github.com/user-attachments/assets/b2c84c21-28ef-43d6-bc05-61c1aad42eaa)
